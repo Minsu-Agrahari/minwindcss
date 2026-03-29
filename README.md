@@ -101,7 +101,7 @@ Apply inline styles using JS
 ## File Strucutre
 ```
 minwind/
-│── demo-index.html
+│── demo_index.html
 │── package.json
 │── README.md
 │── script.js
