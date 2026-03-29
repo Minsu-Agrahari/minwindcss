@@ -151,7 +151,7 @@ Contributions are welcome.
 
 --- 
 ## Author
-### Minsu Agrahari
+Minsu Agrahari
 
 ## Summary
 
